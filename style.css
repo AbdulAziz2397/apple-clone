@@ -1,0 +1,19 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+}
+.container-fluid{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col{
+    color: rgba(255, 255, 255, 0.691);
+    text-align: center;
+}
+.fa-apple{
+    color: white;
+}
